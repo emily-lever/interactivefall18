@@ -1,0 +1,35 @@
+img {
+	height:50px;
+	max-width: 50px;
+}
+
+body {
+    background-color: rgb(250,50,103);
+}
+
+p.icon{
+	
+	float:left;
+	clear:both;
+	padding-right: 20px;
+    
+}
+
+p{
+	font-family: sans-serif;
+	
+
+}
+
+
+
+aside {
+	float:left;
+	width: 29%;
+}
+
+article {
+	float:right;
+	width: 60%;
+}
+
