@@ -1,0 +1,41 @@
+img {
+	height:50px;
+	max-width: 50px;
+}
+
+body {
+    background-color: beige;
+    left-margin:100px; 
+    top-margin:50px; 
+    right-margin:600px;
+}
+
+h1{
+	font-family: sans-serif;
+}
+
+p.icon{
+	
+	float:left;
+	clear:both;
+	padding-right: 20px;
+    
+}
+
+p{
+	font-family: sans-serif;
+	
+}
+
+
+
+aside {
+	float:left;
+	width: 29%;
+}
+
+article {
+	float:right;
+	width: 60%;
+}
+
